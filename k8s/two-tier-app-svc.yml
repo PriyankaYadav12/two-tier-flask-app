@@ -8,6 +8,6 @@ spec:
   ports:
     - protocol: TCP
       port: 80
-      targetPort: 5000
+      targetPort: 2000
       nodePort: 30004
   type: NodePort
