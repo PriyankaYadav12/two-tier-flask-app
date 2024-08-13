@@ -16,6 +16,6 @@ spec:
       - name: MYSQL_DB
         value: "mydb"
     ports:
-      - containerPort: 2000
+      - containerPort: 5000
     imagePullPolicy: Always
     
